@@ -68,18 +68,10 @@ As you know mega.nz links mirroring is on Development Stage. So there are a lot 
 ## Bot commands to be set in BotFather
 
 ```
-mirror - start mirroring
-tarmirror - upload tar (zipped) file
-unzipmirror - extract files
-clone - copy folder to drive
-watch - mirror YT-DL support link
-tarwatch - mirror youtube playlist link as tar
-cancel - cancel a task
-cancelall - cancel all tasks
-del - delete file from drive
-list - [query] searches files in G-Drive
+search - [query] searches files in G-Drive
 status - get mirror status message
 stats - bot usage stats
+auth - authorize chats
 help - get detailed help
 ping - ping bot
 log - bot log [owner only]
@@ -89,7 +81,7 @@ You can also change the commands. For help ask in [Telegram Group](https://t.me/
 
 # How to deploy?
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/jikkubot/magneto-python-aria/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/jikkubot/search-gdrive)
 
 - Configs [Here](https://github.com/jikkubot/magneto-python-aria/tree/main#configs)
 - For any help ask in [Telegram Group](https://t.me/linux_repo):
